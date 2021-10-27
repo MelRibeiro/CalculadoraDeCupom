@@ -30,4 +30,4 @@ quantidadeCupom = (cuponsTotais * mesTotal) + cuponsNoMomento
 print("Você terá ao todo ", quantidadeCupom, " cupons!")
 
 
-print(cuponsTotais, mesTotal, cuponsNoMomento)
+
