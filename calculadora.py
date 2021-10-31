@@ -9,8 +9,7 @@ mensal = 4650
 
 metaUsuario = int(input("Qual sua meta de cupons? "))
 cuponsNoMomento = int(input("Quantos cupons você possui no momento? "))
-mensalUsuario = int(
-    input("Por favor, informe a quantidade de mensal que colocará nesse tempo: "))
+mensalUsuario = int(input("Por favor, informe a quantidade de mensal que colocará nesse tempo: "))
 
 #============================================================================#
 
